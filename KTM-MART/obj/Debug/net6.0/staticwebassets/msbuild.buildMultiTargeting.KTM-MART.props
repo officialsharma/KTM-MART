@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KTM-MART.props" />
+</Project>

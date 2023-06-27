@@ -1,0 +1,12 @@
+C:\Users\Himanshu Sharma\Desktop\KTM-MART\KTM-MART.Models\bin\Debug\net6.0\KTM-MART.Models.deps.json
+C:\Users\Himanshu Sharma\Desktop\KTM-MART\KTM-MART.Models\bin\Debug\net6.0\KTM-MART.Models.dll
+C:\Users\Himanshu Sharma\Desktop\KTM-MART\KTM-MART.Models\bin\Debug\net6.0\KTM-MART.Models.pdb
+C:\Users\Himanshu Sharma\Desktop\KTM-MART\KTM-MART.Models\obj\Debug\net6.0\KTM-MART.Models.csproj.AssemblyReference.cache
+C:\Users\Himanshu Sharma\Desktop\KTM-MART\KTM-MART.Models\obj\Debug\net6.0\KTM-MART.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu Sharma\Desktop\KTM-MART\KTM-MART.Models\obj\Debug\net6.0\KTM-MART.Models.AssemblyInfoInputs.cache
+C:\Users\Himanshu Sharma\Desktop\KTM-MART\KTM-MART.Models\obj\Debug\net6.0\KTM-MART.Models.AssemblyInfo.cs
+C:\Users\Himanshu Sharma\Desktop\KTM-MART\KTM-MART.Models\obj\Debug\net6.0\KTM-MART.Models.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu Sharma\Desktop\KTM-MART\KTM-MART.Models\obj\Debug\net6.0\KTM-MART.Models.dll
+C:\Users\Himanshu Sharma\Desktop\KTM-MART\KTM-MART.Models\obj\Debug\net6.0\refint\KTM-MART.Models.dll
+C:\Users\Himanshu Sharma\Desktop\KTM-MART\KTM-MART.Models\obj\Debug\net6.0\KTM-MART.Models.pdb
+C:\Users\Himanshu Sharma\Desktop\KTM-MART\KTM-MART.Models\obj\Debug\net6.0\ref\KTM-MART.Models.dll

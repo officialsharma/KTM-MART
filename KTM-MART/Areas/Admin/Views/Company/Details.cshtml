@@ -1,0 +1,85 @@
+﻿@model Product
+	<!-- Main Container  -->
+<div class="main-container container">
+	<ul class="breadcrumb">
+		<li><a href="#"><i class="fa fa-home"></i></a></li>
+		<li><a href="#">Product</a></li>
+		<li><a href="#">@Model.Category.Name</a></li>
+	</ul>
+
+	<div class="row">
+		<!--Middle Part Start-->
+		<div id="content" class="col-md-12 col-sm-12">
+
+			<div class="product-view row">
+				<div class="left-content-product col-lg-10 col-xs-12">
+					<div class="row">
+						<div class="content-product-left  col-sm-7 col-xs-12 ">	
+							<div class="large-image  vertical">
+								<img itemprop="image" class="product-image-zoom" src="@Model.ImageUrl" @*data-zoom-image="@Model.ImageUrl" title="Bint Beef" alt="Bint Beef"*@>
+							</div>
+
+						</div>
+
+						<div class="content-product-right col-sm-5 col-xs-12">
+							<div class="title-product">
+								<h1>@Model.ProductName</h1>
+							</div>					
+
+							<div class="product-label form-group">
+								<div class="product_page_price price" itemprop="offerDetails" itemscope="" itemtype="http://data-vocabulary.org/Offer">
+									<span class="price-new" itemprop="price">RS - @Model.Price</span>
+									@*<span class="price-old">$122.00</span>*@
+								</div>
+								<div class="stock"><span>Availability:</span> <span class="status-stock">In Stock</span></div>
+							</div>
+
+							<div class="product-box-desc">
+								<div class="inner-box-desc">
+									@*<div class="price-tax"><span>Ex Tax:</span> $60.00</div>
+									<div class="reward"><span>Price in reward points:</span> 400</div>
+									<div class="brand"><span>Brand:</span><a href="#">Apple</a>		</div>*@
+									<div class="model"><span>Product Code:</span> @Model.ProductCode</div>
+									<div class="reward"><span>Reward Points:</span> @Model.RewardPoints</div>
+								</div>
+							</div>
+
+
+						
+							<!-- end box info product -->
+
+						</div>
+					</div>
+				</div>
+
+			
+			</div>
+
+			<!-- Product Tabs -->
+			<div class="producttab ">
+				<div class="tabsslider  col-xs-12">
+					<ul class="nav nav-tabs">
+						<li class="active"><a data-toggle="tab" href="#tab-1">Description</a></li>
+						<li class="item_nonactive"><a data-toggle="tab" href="#tab-4">Tags</a></li>
+					</ul>
+					<div class="tab-content col-xs-12">
+						<div id="tab-1" class="tab-pane fade active in">
+							@Html.Raw(Model.ProductDescription)
+
+
+						</div>					
+						<div id="tab-4" class="tab-pane fade">
+							@Model.Category.Name
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- //Product Tabs -->
+
+		</div>
+
+
+	</div>
+	<!--Middle Part End-->
+</div>
+<!-- //Main Container -->

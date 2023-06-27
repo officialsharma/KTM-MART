@@ -1,0 +1,17 @@
+C:\Users\Himanshu Sharma\Desktop\KTM-MART\KTM-MART.DataAccess\obj\Debug\net6.0\KTM-MART.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Himanshu Sharma\Desktop\KTM-MART\KTM-MART.DataAccess\obj\Debug\net6.0\KTM-MART.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu Sharma\Desktop\KTM-MART\KTM-MART.DataAccess\obj\Debug\net6.0\KTM-MART.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Himanshu Sharma\Desktop\KTM-MART\KTM-MART.DataAccess\obj\Debug\net6.0\KTM-MART.DataAccess.AssemblyInfo.cs
+C:\Users\Himanshu Sharma\Desktop\KTM-MART\KTM-MART.DataAccess\obj\Debug\net6.0\KTM-MART.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu Sharma\Desktop\KTM-MART\KTM-MART.DataAccess\bin\Debug\net6.0\KTM-MART.DataAccess.deps.json
+C:\Users\Himanshu Sharma\Desktop\KTM-MART\KTM-MART.DataAccess\bin\Debug\net6.0\KTM-MART.DataAccess.runtimeconfig.json
+C:\Users\Himanshu Sharma\Desktop\KTM-MART\KTM-MART.DataAccess\bin\Debug\net6.0\KTM-MART.DataAccess.dll
+C:\Users\Himanshu Sharma\Desktop\KTM-MART\KTM-MART.DataAccess\bin\Debug\net6.0\KTM-MART.DataAccess.pdb
+C:\Users\Himanshu Sharma\Desktop\KTM-MART\KTM-MART.DataAccess\bin\Debug\net6.0\KTM-MART.Models.dll
+C:\Users\Himanshu Sharma\Desktop\KTM-MART\KTM-MART.DataAccess\bin\Debug\net6.0\KTM-MART.Models.pdb
+C:\Users\Himanshu Sharma\Desktop\KTM-MART\KTM-MART.DataAccess\obj\Debug\net6.0\KTM-MART.DataAccess.csproj.CopyComplete
+C:\Users\Himanshu Sharma\Desktop\KTM-MART\KTM-MART.DataAccess\obj\Debug\net6.0\KTM-MART.DataAccess.dll
+C:\Users\Himanshu Sharma\Desktop\KTM-MART\KTM-MART.DataAccess\obj\Debug\net6.0\refint\KTM-MART.DataAccess.dll
+C:\Users\Himanshu Sharma\Desktop\KTM-MART\KTM-MART.DataAccess\obj\Debug\net6.0\KTM-MART.DataAccess.pdb
+C:\Users\Himanshu Sharma\Desktop\KTM-MART\KTM-MART.DataAccess\obj\Debug\net6.0\KTM-MART.DataAccess.genruntimeconfig.cache
+C:\Users\Himanshu Sharma\Desktop\KTM-MART\KTM-MART.DataAccess\obj\Debug\net6.0\ref\KTM-MART.DataAccess.dll

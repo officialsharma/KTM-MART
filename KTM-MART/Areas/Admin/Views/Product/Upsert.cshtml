@@ -1,0 +1,161 @@
+﻿@model KTM_MART.Models.ViewModels.ProductVM
+<!--Main Content New Record-->
+<div class="main-container container">
+
+    <!-- Breadcrumb -->
+        <ul class="breadcrumb">
+            <li><a href="#"><i class="fa fa-home"></i></a></li>
+        @if (Model.Product.Id != 0)
+        {
+            <li class="breadcrumb-item active" aria-current="page">Update Product</li>
+        }
+        else
+        {
+            <li class="breadcrumb-item active" aria-current="page">New Product</li>
+        }
+        </ul>
+   
+    <!-- /Breadcrumb -->
+
+
+
+    <div class="col-md-12">
+        <form method="post" asp-controller="Product" asp-action="Upsert" enctype="multipart/form-data">
+            <input asp-for="Product.Id" type="hidden" />
+            <input asp-for="Product.ImageUrl" type="hidden" />
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title"><i class="fa fa-ticket"></i> Do you want to  @(Model.Product.Id != 0 ? "Update" : "Create New") Product?</h4>
+                </div>
+
+                <div class="panel-body row">
+
+                    <div class="col-md-6 form-group">
+                        <label asp-for="Product.ProductCode">Product Code</label>
+                        <input class="form-control" asp-for="Product.ProductCode">
+                        <span asp-validation-for="Product.ProductCode" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-6 form-group">
+                        <label asp-for="Product.ProductName">Product Name</label>
+                        <input class="form-control" asp-for="Product.ProductName">
+                        <span asp-validation-for="Product.ProductName" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-6 form-group">
+                        <label asp-for="Product.RewardPoints">Reward Points</label>
+                        <input class="form-control" asp-for="Product.RewardPoints">
+                        <span asp-validation-for="Product.RewardPoints" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-6 form-group">
+                        <label asp-for="Product.ListPrice">List Price</label>
+                        <input asp-for="Product.ListPrice" class="form-control">
+                        <span asp-validation-for="Product.ListPrice" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-6 form-group">
+                        <label asp-for="Product.Price">Price</label>
+                        <input asp-for="Product.Price" class="form-control">
+                        <span asp-validation-for="Product.Price" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-6 form-group">
+                        <label asp-for="Product.Price50">Price 50</label>
+                        <input asp-for="Product.Price50" class="form-control">
+                        <span asp-validation-for="Product.Price50" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-6 form-group">
+                        <label asp-for="Product.Price100">Price 100</label>
+                        <input asp-for="Product.Price100" class="form-control">
+                        <span asp-validation-for="Product.Price100" class="text-danger"></span>
+                    </div>
+                    <div class=" col-md-6 form-group">
+                        <label asp-for="Product.CategoryId">Category</label>
+                        <select asp-for="Product.CategoryId" asp-items="@Model.CategoryList" class="form-control">
+                            <option disabled selected>--Select Category--</option>
+                        </select>
+                    </div>
+                    <div class="col-md-6 form-group">
+                        <label asp-for="Product.ImageUrl">Image</label>
+                        <input type="file" id="UploadBox" name="file" class="form-control">
+                        <span asp-validation-for="Product.ImageUrl" class="text-danger"></span>
+                    </div>
+
+                    <div class="col-md-12 tinymce-wrap">
+                        <label asp-for="Product.ProductDescription">Description</label>
+                        <textarea asp-for="Product.ProductDescription" rows="3" class="tinymce"></textarea>
+                        <span asp-validation-for="Product.ProductDescription" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+
+            <hr>
+            @if (Model.Product.Id != 0)
+            {
+                <button class="btn btn-primary" type="submit">Update</button>
+
+
+            }
+            else
+            {
+                <button class="btn btn-primary" onclick="return ValidateInput()" type="submit">Create</button>
+
+            }
+
+            <a asp-area="Admin" asp-controller="Product" asp-action="Index" class="btn btn-danger">
+                <span class="btn-text">Cancel</span><span class="icon-label">
+                    <i class="fa fa-angle-right"></i>
+                </span>
+            </a>
+            <button class="btn btn-primary" type="submit">Add Category</button>
+        </form>
+        <br /><br />
+
+    </div>
+   
+                @if (Model.Product.Id != 0)
+                {
+
+                    <section class="hk-sec-wrapper">
+                        <h5 class="hk-sec-title">@(Model.Product.ProductName)</h5>
+                        <div class="row">
+                            <div class="col-sm">
+                                <div class="w-100 bg-light">
+                                    <img src="@Model.Product.ImageUrl" class="img-fluid mx-auto d-block" alt="img">
+                                </div>
+                            </div>
+                        </div>
+
+                    </section>
+                }
+</div>
+   
+   
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+    <script>
+        tinymce.init({
+            selector: 'textarea',
+            height: 300,
+            plugins: [
+                'advlist autolink lists link image charmap print preview anchor',
+                'searchreplace visualblocks code fullscreen',
+                'insertdatetime media table contextmenu paste code'
+            ],
+            toolbar: 'insertfile undo redo | styleselect | bold italic | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | link image',
+        });
+        </script>
+
+    <script>
+        function ValidateInput() {
+            if (document.getElementById("UploadBox").value == "") {
+                Swal.fire({
+                    icon: 'error',
+                    title: 'Oops...',
+                    text: 'Please Upload an Image!',
+                });
+                return false;
+            }
+            return true;
+        }
+    </script>
+
+    }

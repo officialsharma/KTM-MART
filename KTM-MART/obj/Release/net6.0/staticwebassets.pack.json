@@ -1,0 +1,2961 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\KTM-MART.bundle.scp.css",
+      "PackagePath": "staticwebassets\\KTM-MART.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\bootstrap\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\bootstrap\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\bootstrap\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\bootstrap\\css\\bootstrap.none.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap.none.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\bootstrap\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\bootstrap\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\bootstrap\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\bootstrap\\fonts\\glyphicons-halflings-regular_162a16fe.eot",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\fonts\\glyphicons-halflings-regular_162a16fe.eot"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\bootstrap\\js\\npm.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\npm.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\checkout.css",
+      "PackagePath": "staticwebassets\\css\\checkout.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\fonts\\fontawesome-webfont_162a16fe.eot",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\fonts\\fontawesome-webfont_162a16fe.eot"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\fonts\\fontawesome-webfont_cdea90bb.eot",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\fonts\\fontawesome-webfont_cdea90bb.eot"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\fonts\\fontawesome-webfont_cdea90bb.svg",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\fonts\\fontawesome-webfont_cdea90bb.svg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\fonts\\fontawesome-webfont_cdea90bb.ttf",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\fonts\\fontawesome-webfont_cdea90bb.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\fonts\\fontawesome-webfont_cdea90bb.woff",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\fonts\\fontawesome-webfont_cdea90bb.woff"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\fonts\\fontawesome-webfont_cdea90bb.woff2",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\fonts\\fontawesome-webfont_cdea90bb.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\less\\animated.less",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\less\\spinning.less",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\less\\spinning.less"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\scss\\_spinning.scss",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\scss\\_spinning.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\footer1.css",
+      "PackagePath": "staticwebassets\\css\\footer1.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\footer2.css",
+      "PackagePath": "staticwebassets\\css\\footer2.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\footer3.css",
+      "PackagePath": "staticwebassets\\css\\footer3.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\footer4.css",
+      "PackagePath": "staticwebassets\\css\\footer4.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\footer5.css",
+      "PackagePath": "staticwebassets\\css\\footer5.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\footer\\footer1.css",
+      "PackagePath": "staticwebassets\\css\\footer\\footer1.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\header1.css",
+      "PackagePath": "staticwebassets\\css\\header1.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\header2.css",
+      "PackagePath": "staticwebassets\\css\\header2.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\header3.css",
+      "PackagePath": "staticwebassets\\css\\header3.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\header4.css",
+      "PackagePath": "staticwebassets\\css\\header4.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\header5.css",
+      "PackagePath": "staticwebassets\\css\\header5.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\header6.css",
+      "PackagePath": "staticwebassets\\css\\header6.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\header7.css",
+      "PackagePath": "staticwebassets\\css\\header7.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\header8.css",
+      "PackagePath": "staticwebassets\\css\\header8.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\header\\header2.css",
+      "PackagePath": "staticwebassets\\css\\header\\header2.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\header\\header2.css.map",
+      "PackagePath": "staticwebassets\\css\\header\\header2.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\header\\header5.css",
+      "PackagePath": "staticwebassets\\css\\header\\header5.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\home2.css",
+      "PackagePath": "staticwebassets\\css\\home2.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\home3.css",
+      "PackagePath": "staticwebassets\\css\\home3.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\home4.css",
+      "PackagePath": "staticwebassets\\css\\home4.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\home5.css",
+      "PackagePath": "staticwebassets\\css\\home5.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\home6.css",
+      "PackagePath": "staticwebassets\\css\\home6.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\home7.css",
+      "PackagePath": "staticwebassets\\css\\home7.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\home8.css",
+      "PackagePath": "staticwebassets\\css\\home8.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\ie9-and-up.css",
+      "PackagePath": "staticwebassets\\css\\ie9-and-up.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\responsive\\responsive-1200px-min.css",
+      "PackagePath": "staticwebassets\\css\\responsive\\responsive-1200px-min.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\responsive\\responsive-479px-max.css",
+      "PackagePath": "staticwebassets\\css\\responsive\\responsive-479px-max.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\responsive\\responsive-767px-max.css",
+      "PackagePath": "staticwebassets\\css\\responsive\\responsive-767px-max.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\responsive\\responsive-768px-991px.css",
+      "PackagePath": "staticwebassets\\css\\responsive\\responsive-768px-991px.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\responsive\\responsive-992px-1199px.css",
+      "PackagePath": "staticwebassets\\css\\responsive\\responsive-992px-1199px.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\theme-blue.css",
+      "PackagePath": "staticwebassets\\css\\theme-blue.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\theme-boocdo.css",
+      "PackagePath": "staticwebassets\\css\\theme-boocdo.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\theme-cyan.css",
+      "PackagePath": "staticwebassets\\css\\theme-cyan.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\theme-green.css",
+      "PackagePath": "staticwebassets\\css\\theme-green.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\theme-orange.css",
+      "PackagePath": "staticwebassets\\css\\theme-orange.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\theme.css",
+      "PackagePath": "staticwebassets\\css\\theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\themecss\\cpanel.css",
+      "PackagePath": "staticwebassets\\css\\themecss\\cpanel.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\themecss\\just_purchased_notification.css",
+      "PackagePath": "staticwebassets\\css\\themecss\\just_purchased_notification.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\themecss\\lib.css",
+      "PackagePath": "staticwebassets\\css\\themecss\\lib.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\themecss\\so-categories.css",
+      "PackagePath": "staticwebassets\\css\\themecss\\so-categories.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\themecss\\so-listing-tabs.css",
+      "PackagePath": "staticwebassets\\css\\themecss\\so-listing-tabs.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\themecss\\so-newletter-popup.css",
+      "PackagePath": "staticwebassets\\css\\themecss\\so-newletter-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\css\\themecss\\so_megamenu.css",
+      "PackagePath": "staticwebassets\\css\\themecss\\so_megamenu.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\about\\about-1.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\about\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\about\\about-2.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\about\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\about\\about-3.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\about\\about-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\about\\about-client-1.png",
+      "PackagePath": "staticwebassets\\image\\demo\\about\\about-client-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\about\\about-client-2.png",
+      "PackagePath": "staticwebassets\\image\\demo\\about\\about-client-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\about\\about-client-3.png",
+      "PackagePath": "staticwebassets\\image\\demo\\about\\about-client-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\about\\about-client-4.png",
+      "PackagePath": "staticwebassets\\image\\demo\\about\\about-client-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\about\\about-client-5.png",
+      "PackagePath": "staticwebassets\\image\\demo\\about\\about-client-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\about\\about-client-6.png",
+      "PackagePath": "staticwebassets\\image\\demo\\about\\about-client-6.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\about\\about-us-demo3.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\about\\about-us-demo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\about\\about-us-demo4.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\about\\about-us-demo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\about\\ourmember01.png",
+      "PackagePath": "staticwebassets\\image\\demo\\about\\ourmember01.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\about\\ourmember02.png",
+      "PackagePath": "staticwebassets\\image\\demo\\about\\ourmember02.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\about\\ourmember03.png",
+      "PackagePath": "staticwebassets\\image\\demo\\about\\ourmember03.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\about\\ourmember04.png",
+      "PackagePath": "staticwebassets\\image\\demo\\about\\ourmember04.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\about\\wellcometoshop.png",
+      "PackagePath": "staticwebassets\\image\\demo\\about\\wellcometoshop.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\blog\\blo1.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\blog\\blo1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\blog\\blo2.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\blog\\blo2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\blog\\blo3.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\blog\\blo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\blog\\blo4.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\blog\\blo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\blog\\blo5.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\blog\\blo5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\blog\\blog1.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\blog\\blog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\blog\\blog2.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\blog\\blog2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\blog\\blog4.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\blog\\blog4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\blog\\blog5.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\blog\\blog5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\blog\\blog6.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\blog\\blog6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\blog\\blog7.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\blog\\blog7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\blog\\blog8.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\blog\\blog8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\blog\\blog9.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\blog\\blog9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\brand\\home5\\logo-1.png",
+      "PackagePath": "staticwebassets\\image\\demo\\brand\\home5\\logo-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\brand\\home5\\logo-2.png",
+      "PackagePath": "staticwebassets\\image\\demo\\brand\\home5\\logo-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\brand\\home5\\logo-3.png",
+      "PackagePath": "staticwebassets\\image\\demo\\brand\\home5\\logo-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\brand\\home6\\brand-1.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\brand\\home6\\brand-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\brand\\home6\\brand-2.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\brand\\home6\\brand-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\brand\\home6\\brand-3.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\brand\\home6\\brand-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\brand\\home6\\brand-4.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\brand\\home6\\brand-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\brand\\home6\\brand-5.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\brand\\home6\\brand-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\brand\\home6\\brand-6.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\brand\\home6\\brand-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\clientsay\\client-img1.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\clientsay\\client-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\clientsay\\client-img2.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\clientsay\\client-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\clientsay\\client-s1.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\clientsay\\client-s1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\clientsay\\client-s2.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\clientsay\\client-s2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\clientsay\\client-s3.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\clientsay\\client-s3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\banner-01.png",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\banner-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\banner1.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\banner2-1.png",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\banner2-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\banner2-2.png",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\banner2-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\banner2-3.png",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\banner2-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\banner2-4.png",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\banner2-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\banner2.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\banner3.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\client-img1.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\client-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\home5\\banner1.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\home5\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\home5\\banner2.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\home5\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\home5\\banner3.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\home5\\banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\home5\\banner4.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\home5\\banner4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\home5\\banner5.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\home5\\banner5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\home5\\banner6.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\home5\\banner6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\home5\\banner7.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\home5\\banner7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\home5\\banner8.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\home5\\banner8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\home6\\image-1-index9.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\home6\\image-1-index9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\home6\\image-2-index9.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\home6\\image-2-index9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\home6\\image-3-index9.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\home6\\image-3-index9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\home6\\image-4-index9.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\home6\\image-4-index9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\home7\\image1-id11.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\home7\\image1-id11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\home7\\image2-id11.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\home7\\image2-id11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\home7\\image3-id11.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\home7\\image3-id11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\home8\\cat1-id12.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\home8\\cat1-id12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\home8\\cat2-id12.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\home8\\cat2-id12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\home8\\cat3-id12.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\home8\\cat3-id12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\home8\\image2-id12.png",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\home8\\image2-id12.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\home8\\image3-id12.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\home8\\image3-id12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\home8\\image4-id12.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\home8\\image4-id12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\home8\\image5-id12.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\home8\\image5-id12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\ico-phone.png",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\ico-phone.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\img1.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\img2.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\img3.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\img4.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\left-image-static.png",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\left-image-static.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\menu_bg2.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\menu_bg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\newletter-bg.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\newletter-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\v2-banner-home.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\v2-banner-home.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\v2-banner-right.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\v2-banner-right.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\v2-banner1.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\v2-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\v2-banner2.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\v2-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\v2-banner3.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\v2-banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\v2-banner4.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\v2-banner4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\v3-banner-header.png",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\v3-banner-header.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\cms\\v3-banner-home-left.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\cms\\v3-banner-home-left.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\colors\\blue.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\colors\\blue.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\colors\\brown.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\colors\\brown.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\colors\\green.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\colors\\green.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\colors\\red.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\colors\\red.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\colors\\violet.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\colors\\violet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\content\\captcha.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\content\\captcha.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\content\\payment.png",
+      "PackagePath": "staticwebassets\\image\\demo\\content\\payment.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\feature\\comming-soon.png",
+      "PackagePath": "staticwebassets\\image\\demo\\feature\\comming-soon.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\feature\\home-1.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\feature\\home-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\feature\\home-2.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\feature\\home-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\feature\\home-3.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\feature\\home-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\feature\\home-4.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\feature\\home-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\feature\\home-5.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\feature\\home-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\feature\\home-6.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\feature\\home-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\feature\\home-7.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\feature\\home-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\feature\\home-8.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\feature\\home-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\feature\\home-rtl.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\feature\\home-rtl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\flags\\gb.png",
+      "PackagePath": "staticwebassets\\image\\demo\\flags\\gb.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\flags\\lb.png",
+      "PackagePath": "staticwebassets\\image\\demo\\flags\\lb.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\logos\\logo.png",
+      "PackagePath": "staticwebassets\\image\\demo\\logos\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\logos\\logo_5.png",
+      "PackagePath": "staticwebassets\\image\\demo\\logos\\logo_5.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\logos\\logo_8.png",
+      "PackagePath": "staticwebassets\\image\\demo\\logos\\logo_8.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\logos\\theme_logo.png",
+      "PackagePath": "staticwebassets\\image\\demo\\logos\\theme_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\payment\\payment_method_mob.png",
+      "PackagePath": "staticwebassets\\image\\demo\\payment\\payment_method_mob.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\category\\automotive-motocrycle.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\category\\automotive-motocrycle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\category\\bags-holiday-supplies-gifts.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\category\\bags-holiday-supplies-gifts.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\category\\banner-cate1.png",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\category\\banner-cate1.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\category\\electronic-cat.png",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\category\\electronic-cat.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\category\\electronics.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\category\\electronics.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\category\\fashion-cat.png",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\category\\fashion-cat.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\category\\health-beauty.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\category\\health-beauty.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\category\\image-cat-1.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\category\\image-cat-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\category\\jewelry-watches.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\category\\jewelry-watches.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\category\\laptop-cat.png",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\category\\laptop-cat.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\category\\mobile-cat.png",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\category\\mobile-cat.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\category\\smartphone-tablets.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\category\\smartphone-tablets.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\category\\sports-outdoors.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\category\\sports-outdoors.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\category\\toys-hobbies.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\category\\toys-hobbies.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\1.png",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\10.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\11.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\14.JPG",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\14.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\141.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\141.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\15.JPG",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\15.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\18.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\19.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\34.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\35.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\9.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\B10.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\B10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\B11.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\B11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\B5.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\B5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\B8.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\B8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\B9.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\B9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\E1.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\E1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\E2.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\E2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\E3.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\E3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\E3_1.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\E3_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\E3_3.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\E3_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\E4.JPG",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\E4.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\E4_2.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\E4_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\J1.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\J1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\J10.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\J10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\J2.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\J2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\J3.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\J3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\J4.JPG",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\J4.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\J5.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\J5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\J6.JPG",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\J6.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\J8.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\J8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\J9.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\J9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\W1.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\W1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\e11.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\e11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\e12.JPG",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\e12.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\home5\\10.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\home5\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\home5\\2.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\home5\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\home5\\3.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\home5\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\home5\\4.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\home5\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\home5\\5.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\home5\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\home5\\6.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\home5\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\home5\\7.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\home5\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\home5\\8.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\home5\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\home7\\1_3_18.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\home7\\1_3_18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\home7\\2_2_25.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\home7\\2_2_25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\home7\\3_2_26.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\home7\\3_2_26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\home7\\4_3_25.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\home7\\4_3_25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\home8\\10_7.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\home8\\10_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\home8\\1_2_12.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\home8\\1_2_12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\home8\\2_4_14.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\home8\\2_4_14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\home8\\3_3_15.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\home8\\3_3_15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\home8\\4_3_52.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\home8\\4_3_52.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\home8\\5_2_9.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\home8\\5_2_9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\home8\\7_7.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\home8\\7_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\home8\\8_3.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\home8\\8_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\m1-100x100.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\m1-100x100.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\m1.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\m1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\m2.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\m2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\m3.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\m3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\resize\\1.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\resize\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\resize\\1_3_30.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\resize\\1_3_30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\resize\\2.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\resize\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\resize\\3.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\resize\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\resize\\4.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\resize\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\resize\\4_3_29.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\resize\\4_3_29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\resize\\4_3_52.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\resize\\4_3_52.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\resize\\6_2_3.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\resize\\6_2_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\resize\\7_2.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\resize\\7_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\resize\\7_3.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\resize\\7_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\product\\w10.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\product\\w10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\resize\\11-270x270.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\resize\\11-270x270.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\resize\\141-270x270.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\resize\\141-270x270.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\resize\\34-270x270.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\resize\\34-270x270.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\resize\\35-270x270.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\resize\\35-270x270.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\resize\\B10-270x270.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\resize\\B10-270x270.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\resize\\B5-270x270.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\resize\\B5-270x270.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\resize\\B9-270x270.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\resize\\B9-270x270.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\resize\\E3-270x270.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\resize\\E3-270x270.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\resize\\E3_1-270x270.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\resize\\E3_1-270x270.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\resize\\E3_3-270x270.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\resize\\E3_3-270x270.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\resize\\J5-270x270.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\resize\\J5-270x270.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\resize\\J9-270x270.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\resize\\J9-270x270.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\resize\\W1-270x270.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\resize\\W1-270x270.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\resize\\W10-270x270.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\resize\\W10-270x270.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\resize\\e11-270x270.JPG",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\resize\\e11-270x270.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\resize\\m1-270x270.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\resize\\m1-270x270.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\shop\\resize\\m3-270x270.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\shop\\resize\\m3-270x270.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\slider\\home5\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\slider\\home5\\slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\slider\\home5\\slider-2.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\slider\\home5\\slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\slider\\home5\\slider-3.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\slider\\home5\\slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\slider\\home6\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\slider\\home6\\slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\slider\\home6\\slider-2.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\slider\\home6\\slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\slider\\home6\\slider-3.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\slider\\home6\\slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\slider\\home7\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\slider\\home7\\slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\slider\\home7\\slider-2.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\slider\\home7\\slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\slider\\home7\\slider-3.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\slider\\home7\\slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\slider\\home8\\slide1-id12.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\slider\\home8\\slide1-id12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\slider\\home8\\slide2-id12.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\slider\\home8\\slide2-id12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\slider\\home8\\slide3-id12.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\slider\\home8\\slide3-id12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\slider\\slider-1.png",
+      "PackagePath": "staticwebassets\\image\\demo\\slider\\slider-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\slider\\slider-2.png",
+      "PackagePath": "staticwebassets\\image\\demo\\slider\\slider-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\slider\\slider-3.png",
+      "PackagePath": "staticwebassets\\image\\demo\\slider\\slider-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\slider\\v2-slide1.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\slider\\v2-slide1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\slider\\v2-slide2.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\slider\\v2-slide2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\demo\\slider\\v2-slide3.jpg",
+      "PackagePath": "staticwebassets\\image\\demo\\slider\\v2-slide3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\color\\blue\\payment-bg.png",
+      "PackagePath": "staticwebassets\\image\\theme\\color\\blue\\payment-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\color\\blue\\policy_1.png",
+      "PackagePath": "staticwebassets\\image\\theme\\color\\blue\\policy_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\color\\blue\\policy_2.png",
+      "PackagePath": "staticwebassets\\image\\theme\\color\\blue\\policy_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\color\\blue\\policy_3.png",
+      "PackagePath": "staticwebassets\\image\\theme\\color\\blue\\policy_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\color\\blue\\policy_4.png",
+      "PackagePath": "staticwebassets\\image\\theme\\color\\blue\\policy_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\color\\boocdo\\payment-bg.png",
+      "PackagePath": "staticwebassets\\image\\theme\\color\\boocdo\\payment-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\color\\boocdo\\policy_1.png",
+      "PackagePath": "staticwebassets\\image\\theme\\color\\boocdo\\policy_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\color\\boocdo\\policy_2.png",
+      "PackagePath": "staticwebassets\\image\\theme\\color\\boocdo\\policy_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\color\\boocdo\\policy_3.png",
+      "PackagePath": "staticwebassets\\image\\theme\\color\\boocdo\\policy_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\color\\boocdo\\policy_4.png",
+      "PackagePath": "staticwebassets\\image\\theme\\color\\boocdo\\policy_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\color\\cyan\\payment-bg.png",
+      "PackagePath": "staticwebassets\\image\\theme\\color\\cyan\\payment-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\color\\cyan\\policy_1.png",
+      "PackagePath": "staticwebassets\\image\\theme\\color\\cyan\\policy_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\color\\cyan\\policy_2.png",
+      "PackagePath": "staticwebassets\\image\\theme\\color\\cyan\\policy_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\color\\cyan\\policy_3.png",
+      "PackagePath": "staticwebassets\\image\\theme\\color\\cyan\\policy_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\color\\cyan\\policy_4.png",
+      "PackagePath": "staticwebassets\\image\\theme\\color\\cyan\\policy_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\color\\green\\payment-bg.png",
+      "PackagePath": "staticwebassets\\image\\theme\\color\\green\\payment-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\color\\green\\policy_1.png",
+      "PackagePath": "staticwebassets\\image\\theme\\color\\green\\policy_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\color\\green\\policy_2.png",
+      "PackagePath": "staticwebassets\\image\\theme\\color\\green\\policy_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\color\\green\\policy_3.png",
+      "PackagePath": "staticwebassets\\image\\theme\\color\\green\\policy_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\color\\green\\policy_4.png",
+      "PackagePath": "staticwebassets\\image\\theme\\color\\green\\policy_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\color\\orange\\payment-bg.png",
+      "PackagePath": "staticwebassets\\image\\theme\\color\\orange\\payment-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\color\\orange\\policy_1.png",
+      "PackagePath": "staticwebassets\\image\\theme\\color\\orange\\policy_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\color\\orange\\policy_2.png",
+      "PackagePath": "staticwebassets\\image\\theme\\color\\orange\\policy_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\color\\orange\\policy_3.png",
+      "PackagePath": "staticwebassets\\image\\theme\\color\\orange\\policy_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\color\\orange\\policy_4.png",
+      "PackagePath": "staticwebassets\\image\\theme\\color\\orange\\policy_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\home2\\newsletter-bg.jpg",
+      "PackagePath": "staticwebassets\\image\\theme\\home2\\newsletter-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\home2\\newsletter-btn.png",
+      "PackagePath": "staticwebassets\\image\\theme\\home2\\newsletter-btn.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\home3\\ico-phone.png",
+      "PackagePath": "staticwebassets\\image\\theme\\home3\\ico-phone.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\home6\\bg-clientsay-group.jpg",
+      "PackagePath": "staticwebassets\\image\\theme\\home6\\bg-clientsay-group.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\home6\\icon-phone.png",
+      "PackagePath": "staticwebassets\\image\\theme\\home6\\icon-phone.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\home7\\bg-client-id11.jpg",
+      "PackagePath": "staticwebassets\\image\\theme\\home7\\bg-client-id11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\home7\\bg-header.jpg",
+      "PackagePath": "staticwebassets\\image\\theme\\home7\\bg-header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\home8\\bg_banner.png",
+      "PackagePath": "staticwebassets\\image\\theme\\home8\\bg_banner.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\home8\\icon-phone.png",
+      "PackagePath": "staticwebassets\\image\\theme\\home8\\icon-phone.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\1.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\10-10.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\10-10.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\10.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\11.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\12-12.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\12-12.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\12.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\13-13.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\13-13.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\13.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\14-14.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\14-14.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\14.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\15-15.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\15-15.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\15.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\16-16.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\16-16.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\16.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\2-2.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\2-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\2.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\3-3.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\3-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\3.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\4-4.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\4-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\4.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\5-5.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\5-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\5.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\6-6.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\6-6.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\6.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\7.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\8-8.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\8-8.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\8.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\9-9.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\9-9.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\9.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\New folder\\bg_module.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\New folder\\bg_module.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\arrow-slider-left.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\arrow-slider-left.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\arrow-slider-right.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\arrow-slider-right.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\bg-selectbox.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\bg-selectbox.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\bg_module.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\bg_module.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\btn-cart.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\btn-cart.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\btn-menu-mobile.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\btn-menu-mobile.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\collections-1-1.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\collections-1-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\collections-2-1.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\collections-2-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\collections-3-1.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\collections-3-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\collections-4-1.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\collections-4-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\collections-5-1.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\collections-5-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\collections-6-1.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\collections-6-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\hot-icon.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\hot-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\ico-celander.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\ico-celander.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\ico-freeship.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\ico-freeship.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\ico-menu-parent.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\ico-menu-parent.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\ico-money.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\ico-money.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\ico-new.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\ico-new.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\ico-quicklink.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\ico-quicklink.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\ico-sale.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\ico-sale.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\ico-slider.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\ico-slider.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\ico-umbrella.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\ico-umbrella.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\icon-image.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\icon-image.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\icon_minicart.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\icon_minicart.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\icon_quote.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\icon_quote.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\icon_search.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\icon_search.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\next-prev-detail.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\next-prev-detail.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\policy_1.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\policy_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\policy_1_1.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\policy_1_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\policy_2.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\policy_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\policy_2_2.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\policy_2_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\policy_3.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\policy_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\policy_3_3.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\policy_3_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\policy_4.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\policy_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\icons\\policy_4_4.png",
+      "PackagePath": "staticwebassets\\image\\theme\\icons\\policy_4_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\lazy-loader.gif",
+      "PackagePath": "staticwebassets\\image\\theme\\lazy-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\1.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\10.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\11.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\12.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\13.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\14.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\15.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\16.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\17.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\18.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\19.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\2.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\20.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\21.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\21.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\22.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\23.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\23.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\24.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\24.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\25.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\25.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\26.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\26.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\27.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\27.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\28.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\28.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\29.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\29.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\3.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\30.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\30.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\31.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\31.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\32.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\32.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\33.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\33.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\34.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\34.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\35.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\35.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\36.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\36.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\37.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\37.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\38.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\38.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\39.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\39.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\4.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\40.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\40.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\41.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\41.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\42.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\42.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\43.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\43.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\44.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\44.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\45.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\45.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\46.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\46.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\47.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\47.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\48.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\48.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\49.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\49.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\5.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\50.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\50.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\51.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\51.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\52.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\52.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\53.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\53.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\6.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\7.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\8.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\image\\theme\\patterns\\9.png",
+      "PackagePath": "staticwebassets\\image\\theme\\patterns\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\js\\bootstrap-notify.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-notify.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\js\\bootstrap\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\js\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\js\\countdown\\jquery.countdown.js",
+      "PackagePath": "staticwebassets\\js\\countdown\\jquery.countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\js\\countdown\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\js\\countdown\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\js\\datetimepicker\\bootstrap-datetimepicker.min.css",
+      "PackagePath": "staticwebassets\\js\\datetimepicker\\bootstrap-datetimepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\js\\datetimepicker\\bootstrap-datetimepicker.min.js",
+      "PackagePath": "staticwebassets\\js\\datetimepicker\\bootstrap-datetimepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\js\\datetimepicker\\moment.js",
+      "PackagePath": "staticwebassets\\js\\datetimepicker\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\js\\dcjqaccordion\\jquery.dcjqaccordion.2.8.min.js",
+      "PackagePath": "staticwebassets\\js\\dcjqaccordion\\jquery.dcjqaccordion.2.8.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\js\\jquery-1.11.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.11.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\js\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-2.2.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\js\\jquery-ui\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\js\\jquery-ui\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\js\\jquery-ui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\js\\lightslider\\lightslider.css",
+      "PackagePath": "staticwebassets\\js\\lightslider\\lightslider.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\js\\lightslider\\lightslider.js",
+      "PackagePath": "staticwebassets\\js\\lightslider\\lightslider.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\js\\modernizr\\modernizr-2.6.2.min.js",
+      "PackagePath": "staticwebassets\\js\\modernizr\\modernizr-2.6.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\js\\owl-carousel\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\js\\owl-carousel\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\js\\owl-carousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\js\\owl-carousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\js\\owl-carousel\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\js\\owl-carousel\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\js\\owl-carousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl-carousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\js\\themejs\\addtocart.js",
+      "PackagePath": "staticwebassets\\js\\themejs\\addtocart.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\js\\themejs\\application.js",
+      "PackagePath": "staticwebassets\\js\\themejs\\application.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\js\\themejs\\cpanel.js",
+      "PackagePath": "staticwebassets\\js\\themejs\\cpanel.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\js\\themejs\\fadeimgscroll.js",
+      "PackagePath": "staticwebassets\\js\\themejs\\fadeimgscroll.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\js\\themejs\\homepage.js",
+      "PackagePath": "staticwebassets\\js\\themejs\\homepage.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\js\\themejs\\libs.js",
+      "PackagePath": "staticwebassets\\js\\themejs\\libs.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\js\\themejs\\pathLoader.js",
+      "PackagePath": "staticwebassets\\js\\themejs\\pathLoader.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\js\\themejs\\so_megamenu.js",
+      "PackagePath": "staticwebassets\\js\\themejs\\so_megamenu.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\js\\themejs\\toppanel.js",
+      "PackagePath": "staticwebassets\\js\\themejs\\toppanel.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\js\\unveil\\jquery.unveil.js",
+      "PackagePath": "staticwebassets\\js\\unveil\\jquery.unveil.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\_utilities.scss",
+      "PackagePath": "staticwebassets\\sass\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\_bourbon-deprecated-upcoming.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\_bourbon-deprecated-upcoming.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\_bourbon.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\_bourbon.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\addons\\_border-color.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\addons\\_border-color.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\addons\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\addons\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\addons\\_border-style.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\addons\\_border-style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\addons\\_border-width.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\addons\\_border-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\addons\\_buttons.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\addons\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\addons\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\addons\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\addons\\_ellipsis.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\addons\\_ellipsis.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\addons\\_font-stacks.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\addons\\_font-stacks.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\addons\\_hide-text.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\addons\\_hide-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\addons\\_margin.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\addons\\_margin.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\addons\\_padding.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\addons\\_padding.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\addons\\_position.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\addons\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\addons\\_prefixer.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\addons\\_prefixer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\addons\\_retina-image.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\addons\\_retina-image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\addons\\_size.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\addons\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\addons\\_text-inputs.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\addons\\_text-inputs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\addons\\_timing-functions.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\addons\\_timing-functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\addons\\_triangle.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\addons\\_triangle.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\addons\\_word-wrap.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\addons\\_word-wrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\css3\\_animation.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\css3\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\css3\\_appearance.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\css3\\_appearance.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\css3\\_backface-visibility.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\css3\\_backface-visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\css3\\_background-image.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\css3\\_background-image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\css3\\_background.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\css3\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\css3\\_border-image.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\css3\\_border-image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\css3\\_calc.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\css3\\_calc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\css3\\_columns.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\css3\\_columns.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\css3\\_filter.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\css3\\_filter.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\css3\\_flex-box.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\css3\\_flex-box.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\css3\\_font-face.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\css3\\_font-face.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\css3\\_font-feature-settings.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\css3\\_font-feature-settings.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\css3\\_hidpi-media-query.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\css3\\_hidpi-media-query.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\css3\\_hyphens.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\css3\\_hyphens.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\css3\\_image-rendering.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\css3\\_image-rendering.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\css3\\_keyframes.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\css3\\_keyframes.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\css3\\_linear-gradient.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\css3\\_linear-gradient.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\css3\\_perspective.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\css3\\_perspective.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\css3\\_placeholder.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\css3\\_placeholder.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\css3\\_radial-gradient.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\css3\\_radial-gradient.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\css3\\_selection.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\css3\\_selection.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\css3\\_text-decoration.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\css3\\_text-decoration.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\css3\\_transform.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\css3\\_transform.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\css3\\_transition.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\css3\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\css3\\_user-select.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\css3\\_user-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\functions\\_assign-inputs.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\functions\\_assign-inputs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\functions\\_contains-falsy.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\functions\\_contains-falsy.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\functions\\_contains.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\functions\\_contains.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\functions\\_is-length.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\functions\\_is-length.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\functions\\_is-light.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\functions\\_is-light.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\functions\\_is-number.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\functions\\_is-number.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\functions\\_is-size.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\functions\\_is-size.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\functions\\_modular-scale.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\functions\\_modular-scale.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\functions\\_px-to-em.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\functions\\_px-to-em.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\functions\\_px-to-rem.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\functions\\_px-to-rem.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\functions\\_shade.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\functions\\_shade.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\functions\\_strip-units.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\functions\\_strip-units.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\functions\\_tint.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\functions\\_tint.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\functions\\_transition-property-name.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\functions\\_transition-property-name.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\functions\\_unpack.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\functions\\_unpack.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\helpers\\_convert-units.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\helpers\\_convert-units.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\helpers\\_directional-values.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\helpers\\_directional-values.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\helpers\\_font-source-declaration.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\helpers\\_font-source-declaration.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\helpers\\_gradient-positions-parser.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\helpers\\_gradient-positions-parser.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\helpers\\_linear-angle-parser.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\helpers\\_linear-angle-parser.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\helpers\\_linear-gradient-parser.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\helpers\\_linear-gradient-parser.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\helpers\\_linear-positions-parser.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\helpers\\_linear-positions-parser.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\helpers\\_linear-side-corner-parser.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\helpers\\_linear-side-corner-parser.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\helpers\\_radial-arg-parser.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\helpers\\_radial-arg-parser.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\helpers\\_radial-gradient-parser.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\helpers\\_radial-gradient-parser.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\helpers\\_radial-positions-parser.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\helpers\\_radial-positions-parser.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\helpers\\_render-gradients.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\helpers\\_render-gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\helpers\\_shape-size-stripper.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\helpers\\_shape-size-stripper.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\helpers\\_str-to-num.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\helpers\\_str-to-num.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\settings\\_asset-pipeline.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\settings\\_asset-pipeline.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\settings\\_prefixer.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\settings\\_prefixer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\bourbon\\settings\\_px-to-em.scss",
+      "PackagePath": "staticwebassets\\sass\\bourbon\\settings\\_px-to-em.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\checkout.scss",
+      "PackagePath": "staticwebassets\\sass\\checkout.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\directional\\_bootstrap_breakpoints.scss",
+      "PackagePath": "staticwebassets\\sass\\directional\\_bootstrap_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\directional\\_directional.scss",
+      "PackagePath": "staticwebassets\\sass\\directional\\_directional.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\directional\\_rem.scss",
+      "PackagePath": "staticwebassets\\sass\\directional\\_rem.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\directional\\_scut.scss",
+      "PackagePath": "staticwebassets\\sass\\directional\\_scut.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\footer1.scss",
+      "PackagePath": "staticwebassets\\sass\\footer1.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\footer2.scss",
+      "PackagePath": "staticwebassets\\sass\\footer2.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\footer3.scss",
+      "PackagePath": "staticwebassets\\sass\\footer3.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\footer4.scss",
+      "PackagePath": "staticwebassets\\sass\\footer4.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\footer5.scss",
+      "PackagePath": "staticwebassets\\sass\\footer5.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\footer\\_footer.scss",
+      "PackagePath": "staticwebassets\\sass\\footer\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\header1.scss",
+      "PackagePath": "staticwebassets\\sass\\header1.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\header2.scss",
+      "PackagePath": "staticwebassets\\sass\\header2.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\header3.scss",
+      "PackagePath": "staticwebassets\\sass\\header3.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\header4.scss",
+      "PackagePath": "staticwebassets\\sass\\header4.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\header5.scss",
+      "PackagePath": "staticwebassets\\sass\\header5.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\header6.scss",
+      "PackagePath": "staticwebassets\\sass\\header6.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\header7.scss",
+      "PackagePath": "staticwebassets\\sass\\header7.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\header8.scss",
+      "PackagePath": "staticwebassets\\sass\\header8.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\header\\_header.scss",
+      "PackagePath": "staticwebassets\\sass\\header\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\home2.scss",
+      "PackagePath": "staticwebassets\\sass\\home2.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\home3.scss",
+      "PackagePath": "staticwebassets\\sass\\home3.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\home4.scss",
+      "PackagePath": "staticwebassets\\sass\\home4.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\home5.scss",
+      "PackagePath": "staticwebassets\\sass\\home5.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\home6.scss",
+      "PackagePath": "staticwebassets\\sass\\home6.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\home7.scss",
+      "PackagePath": "staticwebassets\\sass\\home7.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\home8.scss",
+      "PackagePath": "staticwebassets\\sass\\home8.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\homepage\\header\\_header1.scss",
+      "PackagePath": "staticwebassets\\sass\\homepage\\header\\_header1.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\homepage\\header\\_header2.scss",
+      "PackagePath": "staticwebassets\\sass\\homepage\\header\\_header2.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\homepage\\header\\_header3.scss",
+      "PackagePath": "staticwebassets\\sass\\homepage\\header\\_header3.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\homepage\\header\\_header4.scss",
+      "PackagePath": "staticwebassets\\sass\\homepage\\header\\_header4.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\homepage\\home1\\_layout.scss",
+      "PackagePath": "staticwebassets\\sass\\homepage\\home1\\_layout.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\homepage\\home1\\_module.scss",
+      "PackagePath": "staticwebassets\\sass\\homepage\\home1\\_module.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\homepage\\home2\\_layout.scss",
+      "PackagePath": "staticwebassets\\sass\\homepage\\home2\\_layout.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\homepage\\home2\\_module.scss",
+      "PackagePath": "staticwebassets\\sass\\homepage\\home2\\_module.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\homepage\\home3\\_layout.scss",
+      "PackagePath": "staticwebassets\\sass\\homepage\\home3\\_layout.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\homepage\\home3\\_module.scss",
+      "PackagePath": "staticwebassets\\sass\\homepage\\home3\\_module.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\homepage\\home4\\_layout.scss",
+      "PackagePath": "staticwebassets\\sass\\homepage\\home4\\_layout.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\homepage\\home4\\_module.scss",
+      "PackagePath": "staticwebassets\\sass\\homepage\\home4\\_module.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\homepage\\home5\\_layout.scss",
+      "PackagePath": "staticwebassets\\sass\\homepage\\home5\\_layout.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\homepage\\home5\\_module.scss",
+      "PackagePath": "staticwebassets\\sass\\homepage\\home5\\_module.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\homepage\\home6\\_layout.scss",
+      "PackagePath": "staticwebassets\\sass\\homepage\\home6\\_layout.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\homepage\\home6\\_module.scss",
+      "PackagePath": "staticwebassets\\sass\\homepage\\home6\\_module.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\homepage\\home7\\_layout.scss",
+      "PackagePath": "staticwebassets\\sass\\homepage\\home7\\_layout.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\homepage\\home7\\_module.scss",
+      "PackagePath": "staticwebassets\\sass\\homepage\\home7\\_module.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\homepage\\home8\\_layout.scss",
+      "PackagePath": "staticwebassets\\sass\\homepage\\home8\\_layout.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\homepage\\home8\\_module.scss",
+      "PackagePath": "staticwebassets\\sass\\homepage\\home8\\_module.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\ie9-and-up.scss",
+      "PackagePath": "staticwebassets\\sass\\ie9-and-up.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\responsive.scss",
+      "PackagePath": "staticwebassets\\sass\\responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\responsive\\responsive-1200px-min.scss",
+      "PackagePath": "staticwebassets\\sass\\responsive\\responsive-1200px-min.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\responsive\\responsive-479px-max.scss",
+      "PackagePath": "staticwebassets\\sass\\responsive\\responsive-479px-max.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\responsive\\responsive-767px-max.scss",
+      "PackagePath": "staticwebassets\\sass\\responsive\\responsive-767px-max.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\responsive\\responsive-768px-991px.scss",
+      "PackagePath": "staticwebassets\\sass\\responsive\\responsive-768px-991px.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\responsive\\responsive-992px-1199px.scss",
+      "PackagePath": "staticwebassets\\sass\\responsive\\responsive-992px-1199px.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\theme.scss",
+      "PackagePath": "staticwebassets\\sass\\theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\theme\\_blog.scss",
+      "PackagePath": "staticwebassets\\sass\\theme\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\theme\\_bonus_page.scss",
+      "PackagePath": "staticwebassets\\sass\\theme\\_bonus_page.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\theme\\_garenal.scss",
+      "PackagePath": "staticwebassets\\sass\\theme\\_garenal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\theme\\_layout.scss",
+      "PackagePath": "staticwebassets\\sass\\theme\\_layout.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\theme\\_login.scss",
+      "PackagePath": "staticwebassets\\sass\\theme\\_login.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\theme\\_mainmenu.scss",
+      "PackagePath": "staticwebassets\\sass\\theme\\_mainmenu.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\theme\\_module.scss",
+      "PackagePath": "staticwebassets\\sass\\theme\\_module.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\theme\\_productdetail.scss",
+      "PackagePath": "staticwebassets\\sass\\theme\\_productdetail.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\theme\\_productlist.scss",
+      "PackagePath": "staticwebassets\\sass\\theme\\_productlist.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\theme\\_sitemap.scss",
+      "PackagePath": "staticwebassets\\sass\\theme\\_sitemap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\theme\\_system.scss",
+      "PackagePath": "staticwebassets\\sass\\theme\\_system.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\theme\\_typo.scss",
+      "PackagePath": "staticwebassets\\sass\\theme\\_typo.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\variables\\_blue.scss",
+      "PackagePath": "staticwebassets\\sass\\variables\\_blue.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\variables\\_boocdo.scss",
+      "PackagePath": "staticwebassets\\sass\\variables\\_boocdo.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\variables\\_cyan.scss",
+      "PackagePath": "staticwebassets\\sass\\variables\\_cyan.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\variables\\_green.scss",
+      "PackagePath": "staticwebassets\\sass\\variables\\_green.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\variables\\_orange.scss",
+      "PackagePath": "staticwebassets\\sass\\variables\\_orange.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\variables\\_theme_variables.scss",
+      "PackagePath": "staticwebassets\\sass\\variables\\_theme_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Himanshu Sharma\\Desktop\\KTM-MART\\KTM-MART\\wwwroot\\sass\\variables\\_utilities.scss",
+      "PackagePath": "staticwebassets\\sass\\variables\\_utilities.scss"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.KTM-MART.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.KTM-MART.props",
+      "PackagePath": "build\\KTM-MART.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.KTM-MART.props",
+      "PackagePath": "buildMultiTargeting\\KTM-MART.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.KTM-MART.props",
+      "PackagePath": "buildTransitive\\KTM-MART.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

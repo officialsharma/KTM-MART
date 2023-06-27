@@ -1,0 +1,95 @@
+﻿@model KTM_MART.Models.Company
+<!--Main Content New Record-->
+<div class="main-container container">
+
+    <!-- Breadcrumb -->
+        <ul class="breadcrumb">
+            <li><a href="#"><i class="fa fa-home"></i></a></li>
+        @if (Model.Id != 0)
+        {
+            <li class="breadcrumb-item active" aria-current="page">Update Company</li>
+        }
+        else
+        {
+            <li class="breadcrumb-item active" aria-current="page">New Company</li>
+        }
+        </ul>
+   
+    <!-- /Breadcrumb -->
+
+
+
+    <div class="col-md-12">
+        <form method="post" asp-controller="Company" asp-action="Upsert" enctype="multipart/form-data">
+            <input asp-for="Id" type="hidden" />
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title"><i class="fa fa-ticket"></i> Do you want to  @(Model.Id != 0 ? "Update" : "Create New") Company?</h4>
+                </div>
+
+                <div class="panel-body row">
+                    <div class="col-md-6 form-group">
+                        <label asp-for="Name">Company Name</label>
+                        <input class="form-control" asp-for="Name">
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-6 form-group">
+                        <label asp-for="State">State</label>
+                        <input class="form-control" asp-for="State">
+                        <span asp-validation-for="State" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-6 form-group">
+                        <label asp-for="City">City</label>
+                        <input class="form-control" asp-for="City">
+                        <span asp-validation-for="City" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-6 form-group">
+                        <label asp-for="StreetAddress">Street Address</label>
+                        <input class="form-control" asp-for="StreetAddress">
+                        <span asp-validation-for="StreetAddress" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-6 form-group">
+                        <label asp-for="PostalCode">Postal Code</label>
+                        <input class="form-control" asp-for="PostalCode">
+                        <span asp-validation-for="PostalCode" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-6 form-group">
+                        <label asp-for="PhoneNumber">Contact</label>
+                        <input class="form-control" asp-for="PhoneNumber">
+                        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+
+            <hr>
+            @if (Model.Id != 0)
+            {
+                <button class="btn btn-primary" type="submit">Update</button>
+
+
+            }
+            else
+            {
+                <button class="btn btn-primary" onclick="return ValidateInput()" type="submit">Create</button>
+
+            }
+
+            <a asp-area="Admin" asp-controller="Company" asp-action="Index" class="btn btn-danger">
+                <span class="btn-text">Cancel</span><span class="icon-label">
+                    <i class="fa fa-angle-right"></i>
+                </span>
+            </a>
+            <button class="btn btn-primary" type="submit">Add Category</button>
+        </form>
+        <br /><br />
+
+    </div> 
+</div>
+   
+   
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+
+    }

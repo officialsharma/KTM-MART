@@ -1,0 +1,67 @@
+﻿@page
+@model ExternalLoginModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+
+<div class="main-container container">
+    <h4 id="external-login-title">Associate your @Model.ProviderDisplayName account.</h4>
+    <hr />
+
+    <p id="external-login-description" class="text-info">
+        You've successfully authenticated with <strong>@Model.ProviderDisplayName</strong>.
+        Please enter an email address for this site below and click the Register button to finish
+        logging in.
+    </p>
+
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-page-handler="Confirmation" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Input.Email">Email</label>
+                    <input asp-for="Input.Email" class="form-control" />
+                    <span asp-validation-for="Input.Email" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Input.Name">Name</label>
+                    <input asp-for="Input.Name" class="form-control" />
+                    <span asp-validation-for="Input.Name" class="text-danger"></span>
+                </div>
+                <div class="col-md-6 form-group">
+                    <label asp-for="Input.State">State</label>
+                    <input class="form-control" asp-for="Input.State">
+                    <span asp-validation-for="Input.State" class="text-danger"></span>
+                </div>
+                <div class="col-md-6 form-group">
+                    <label asp-for="Input.City">City</label>
+                    <input class="form-control" asp-for="Input.City">
+                    <span asp-validation-for="Input.City" class="text-danger"></span>
+                </div>
+                <div class="col-md-6 form-group">
+                    <label asp-for="Input.StreetAddress">Street Address</label>
+                    <input class="form-control" asp-for="Input.StreetAddress">
+                    <span asp-validation-for="Input.StreetAddress" class="text-danger"></span>
+                </div>
+                <div class="col-md-6 form-group">
+                    <label asp-for="Input.PostalCode">Postal Code</label>
+                    <input class="form-control" asp-for="Input.PostalCode">
+                    <span asp-validation-for="Input.PostalCode" class="text-danger"></span>
+                </div>
+                <div class="col-md-6 form-group required">
+                    <label asp-for="Input.PhoneNumber">Contact</label>
+                    <input class="form-control" asp-for="Input.PhoneNumber">
+                    <span asp-validation-for="Input.PhoneNumber" class="text-danger"></span>
+                </div>
+                <button type="submit" class="btn btn-default">Register</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

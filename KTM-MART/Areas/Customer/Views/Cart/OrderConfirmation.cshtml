@@ -1,0 +1,43 @@
+﻿@model KTM_MART.Models.OrderHeader
+
+<div class="main-container container">
+	<ul class="breadcrumb">
+		<li><a href="#"><i class="fa fa-home"></i></a></li>
+		<li><a href="#">Order Confirmation</a></li>
+		<li><a href="#">Order Placed</a></li>
+
+	</ul>
+
+	<div class="row">
+		<!--Middle Part Start-->
+		<div id="content" class="col-sm-12">
+			<h2 class="title">Confirm Order</h2>
+			<div class="so-onepagecheckout ">		
+				<div class="col-right col-sm-12">
+					<div class="row">				
+						<div class="col-sm-12">
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									<h4 class="panel-title text-center"><i class="fa fa-pencil"></i> Order Details.</h4>
+								</div>
+								<div class="panel-body">
+									<br>
+									<label class="control-label" for="confirm_agree">
+										<span class="text-center">Your Order Number is <a class="agree" href="#"><b>&nbsp;@Model.Id</b></a></span>
+									</label>
+								 <br />
+									<label class="control-label" for="confirm_agree">
+										<span class="text-center">Your Order has been<a class="agree" href="#"><b>&nbsp;Succesfully Placed.</b></a></span>
+									</label>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--Middle Part End -->
+
+	</div>
+</div>
+<!-- //Main Container -->

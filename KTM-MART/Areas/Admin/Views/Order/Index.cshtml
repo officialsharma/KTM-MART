@@ -1,0 +1,121 @@
+﻿@{
+    var status = Context.Request.Query["status"];
+    var pending = "text-info";
+    var inprocess = "text-warning";
+    var completed = "text-success";
+    var all = "text-primary";
+    var approved = "text-success";
+
+    switch (status)
+    {
+        case "pending":
+            pending = "active text-white";
+            break;
+        case "inprocess":
+            inprocess = "active text-white";
+            break;
+        case "completed":
+            completed = "active text-white";
+            break;
+        case "approved":
+            approved = "active text-white";
+            break;
+        default :
+            all = "active text-white";
+            break;
+    }
+}
+<div class="main-container container">
+    <!-- //Header Container  -->
+    <!-- Main Container  -->
+    <div class="main-container container">
+        <ul class="breadcrumb">
+            <li><a href="#"><i class="fa fa-home"></i></a></li>
+            <li><a href="#">Products</a></li>
+        </ul>
+
+        <div class="row">
+            <!--Middle Part Start-->
+            <div id="content" class="col-sm-10">
+                <h2 class="title">Order Record</h2>
+                <div class="module first-block">
+                    <div class="modcontent clearfix">
+                        <div id="custom_popular_search" class="clearfix">
+                            <h5 class="so-searchbox-popular-title pull-left">View Order :</h5>
+                            <div class="so-searchbox-keyword">
+                                <ul class="list-inline">
+                                    &nbsp;
+                                    <li class="@inprocess">
+                                        <a asp-controller="Order" asp-action="Index" asp-route-status="inprocess">
+                                            Inprocess,
+                                        </a>
+                                    </li>
+                                    <li class="@pending">
+                                        <a asp-controller="Order" asp-action="Index" asp-route-status="pending">
+                                        Payment Pending,                                    
+                                        </a>
+                                    </li>
+                                    <li class="@completed">
+                                        <a asp-controller="Order" asp-action="Index" asp-route-status="completed">
+                                        Completed,                                    
+                                        </a>
+                                    </li>
+                                    <li class="@approved">
+                                        <a asp-controller="Order" asp-action="Index" asp-route-status="approved">
+                                            Approved,
+                                        </a>
+                                    </li>
+                                    <li class="@all">
+                                    <a asp-controller="Order" asp-action="Index" asp-route-status="All">     
+                                        All </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="table-responsive form-group">
+                    <table class="table table-bordered" id="OrderTblData">
+                        <thead>
+                            <tr>
+                                <td class="text-center">ID</td>
+                                <td class="text-center">Name</td>
+                                <td class="text-center">Phone Number</td>
+                                <td class="text-center">Email</td>
+                                <td class="text-center">Status</td>
+                                <td class="text-center">Total</td>
+                                <td class="text-center">View</td>
+
+
+                            </tr>
+                        </thead>
+                        <tfoot>
+                            <tr>
+                                <td class="text-center">ID</td>
+                                <td class="text-center">Name</td>
+                                <td class="text-center">Phone Number</td>
+                                <td class="text-center">Email</td>
+                                <td class="text-center">Status</td>
+                                <td class="text-center">Total</td>
+                                <td class="text-center">View</td>
+
+                            </tr>
+                        </tfoot>
+                    </table>
+                </div>
+
+
+
+
+
+            </div>
+
+
+        </div>
+        <!-- //Main Container -->
+    </div>
+</div>
+
+@section Scripts{
+    <script type="text/javascript" src="~/js/OrderTable.js"></script>
+}

@@ -1,0 +1,76 @@
+﻿@model KTM_MART.Models.ViewModels.AprioriVM
+
+<div class="main-container container">
+    <h1 class="col-md-6">Apriori</h1>  
+    <button id="toggleButton" class="col-md-3 btn btn-warning pull-right">Show All Operations</button>
+   
+<hr />
+<hr />
+    <div id="contentToToggle" style="display: none;">
+        <!-- Your content here -->
+        <div class="row">
+            <div class="col-md-6">
+                <p class="text-danger">Support Values</p>
+                <h6>Product &nbsp;&nbsp;&nbsp;&nbsp;-- &nbsp;&nbsp;&nbsp;&nbsp;Counts</h6>
+                <pre>@Model.ProductCounts</pre>
+            </div>
+            <div class="col-md-6">
+                <p class="text-danger">Products with equal to or greater than the threshold support value</p>
+                <h5>Thresholded Grouped Products</h5>
+                <h6>Product &nbsp;&nbsp;&nbsp;&nbsp; -- &nbsp;&nbsp;&nbsp;Counts</h6>
+                <pre>@Model.ThresholdedGroupedProducts</pre>
+            </div>
+        </div>
+        <hr />
+        <hr />
+        <div class="row">
+            <div class="col-md-6">
+                <p class="text-danger">Support values for dual product groups</p>
+                <h5>Grouped Products</h5>
+                <h6>Product &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-- &nbsp;&nbsp;Counts</h6>
+                <pre>@Model.GroupedProducts</pre>
+            </div>
+            <div class="col-md-6">
+                <p class="text-danger">Two product groups with equal to or greater than the threshold support value</p>
+                <h5>Merged Grouped Products</h5>
+                <h6>Product &nbsp;&nbsp;&nbsp;--   &nbsp;&nbsp;&nbsp;&nbsp;Counts</h6>
+                <pre>@Model.MergedGroupedProducts</pre>
+            </div>
+        </div>
+        <hr />
+        <hr />
+        <div class="row">
+            <div class="col-md-12">
+                <p class="text-danger">Three product groups with equal to or greater than the threshold support value</p>
+                <h5>Merged Grouped Products</h5>
+                <h6>Product &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Counts</h6>
+                <pre>@Model.MergedGrouped</pre>
+            </div>
+        </div>
+
+
+        <hr />
+        <hr />
+
+    </div>
+
+    <div>
+        <p class="text-danger">Final Association Rules Generated using Apriori Algorithm</p>
+        <br />
+        <h1>Final Result</h1>
+        <pre>@Model.FinalResult</pre>
+    </div>
+  </div>
+    
+
+
+
+@section Scripts{
+    <script>
+        $(document).ready(function () {
+            $('#toggleButton').click(function () {
+                $('#contentToToggle').toggle();
+            });
+        });
+    </script>
+}

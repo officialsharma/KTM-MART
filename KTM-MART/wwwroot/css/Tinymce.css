@@ -1,0 +1,116 @@
+﻿/*Tinymce*/
+.mce-container, .mce-container *, .mce-widget, .mce-widget *, .mce-reset {
+    color: #98a0a3 !important;
+}
+
+.mce-text {
+    font-family: "Roboto", sans-serif !important;
+}
+
+.mce-menu-item .mce-caret {
+    border-left-color: #98a0a3 !important;
+}
+
+div.mce-menu .mce-menu-item-sep, .mce-menu-item-sep:hover {
+    border-bottom-color: #eaecec !important;
+}
+
+.mce-menu {
+    border-bottom-color: #eaecec !important;
+}
+
+.tinymce-wrap .mce-tinymce {
+    box-shadow: none;
+}
+
+.tinymce-wrap .mce-toolbar .mce-btn-group {
+    padding: 3px 0;
+}
+
+.tinymce-wrap .mce-btn-group .mce-btn {
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+.tinymce-wrap .mce-btn-group:not(:first-child) {
+    border-left: none;
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.tinymce-wrap .mce-container, .tinymce-wrap .mce-container *, .tinymce-wrap .mce-widget, .tinymce-wrap .mce-widget *, .tinymce-wrap .mce-reset {
+    font-family: inherit;
+    color: #98a0a3;
+}
+
+.tinymce-wrap .mce-panel {
+    border-color: #eaecec;
+    border-radius: 4px;
+}
+
+.tinymce-wrap .mce-top-part::before {
+    box-shadow: none;
+}
+
+.tinymce-wrap .mce-btn:hover, .tinymce-wrap .mce-btn.mce-disabled:hover button,
+.tinymce-wrap .mce-menubar .mce-menubtn:hover, .tinymce-wrap .mce-menubar .mce-menubtn:focus {
+    border-color: transparent;
+    border-radius: 3px;
+    background: #f5f5f6;
+    color: #324148;
+}
+
+.tinymce-wrap .mce-btn.mce-active:hover, .tinymce-wrap .mce-btn.mce-active:focus, .tinymce-wrap .mce-btn.mce-active:active {
+    background: #f5f5f6;
+    border-color: transparent;
+}
+
+.tinymce-wrap .mce-btn.mce-active,
+.tinymce-wrap .mce-btn:active {
+    background: #f5f5f6;
+    border-color: transparent;
+}
+
+    .tinymce-wrap .mce-btn.mce-active button i,
+    .tinymce-wrap .mce-btn:active button i {
+        color: #00acf0 !important;
+    }
+
+    .tinymce-wrap .mce-btn.mce-active button, .tinymce-wrap .mce-btn.mce-active:hover button, .tinymce-wrap .mce-btn.mce-active i, .tinymce-wrap .mce-btn.mce-active:hover i {
+        color: #00acf0;
+    }
+
+    .tinymce-wrap .mce-btn.mce-active .mce-caret, .tinymce-wrap .mce-btn.mce-active:hover .mce-caret {
+        border-top-color: #98a0a3;
+    }
+
+.mce-ico {
+    font-family: 'tinymce',Arial !important;
+    color: #5b676d !important;
+}
+
+.mce-menu-item.mce-active.mce-menu-item-normal {
+    background: #f5f5f6 !important;
+}
+
+.mce-tooltip {
+    opacity: 1 !important;
+    filter: alpha(opacity=100) !important;
+}
+
+.mce-tooltip-inner {
+    font-size: 12px !important;
+    background-color: #324148 !important;
+    padding: 0.25rem 0.5rem !important;
+    border-radius: 0.25rem;
+    color: #fff !important;
+    font-family: "Roboto", sans-serif !important;
+}
+
+.mce-tooltip-arrow {
+    border-bottom-color: #324148 !important;
+}
+
+.mce-menu-item:hover, .mce-menu-item:focus {
+    background: #f5f5f6 !important;
+}

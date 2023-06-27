@@ -1,0 +1,199 @@
+﻿@model KTM_MART.Models.ViewModels.ShoppingCartVM
+@using Microsoft.Extensions.Options
+@using KTM_MART.Utility
+@inject IOptions<KTM_MART.Utility.StripeSettings> Stripe
+<div class="main-container container">
+	<ul class="breadcrumb">
+		<li><a href="#"><i class="fa fa-home"></i></a></li>
+		<li><a href="#">Summary</a></li>
+		<li><a href="#">Checkout</a></li>
+
+	</ul>
+
+
+
+	<div class="row">
+	  <form method="post">
+		<!--Middle Part Start-->
+		<div id="content" class="col-sm-12">
+			<div class="so-onepagecheckout ">
+				<div class="col-left col-sm-3">
+					
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h4 class="panel-title"><i class="fa fa-user"></i> Your Shipping Details</h4>
+						</div>
+						<div class="panel-body">
+							<fieldset id="account">
+								<div class="form-group required">
+									<label asp-for="OrderHeader.Name" class="control-label">First Name</label>
+									<input asp-for="OrderHeader.Name" class="form-control">
+									<span asp-validation-for="OrderHeader.Name" class="text-danger"></span>
+								</div>
+								<div class="form-group required">
+									<label asp-for="OrderHeader.PhoneNumber" class="control-label">Phone Number</label>
+									<input asp-for="OrderHeader.PhoneNumber" class="form-control" >
+								    <span asp-validation-for="OrderHeader.PhoneNumber" class="text-danger"></span>
+
+								</div>
+									<div class="form-group required">
+										<label asp-for="OrderHeader.StreetAddress" class="control-label">Street Address</label>
+										<input asp-for="OrderHeader.StreetAddress" class="form-control">
+										<span asp-validation-for="OrderHeader.StreetAddress" class="text-danger"></span>
+									</div>
+									<div class="form-group required">
+										<label asp-for="OrderHeader.State" class="control-label">State</label>
+										<input asp-for="OrderHeader.State" class="form-control">
+										<span asp-validation-for="OrderHeader.State" class="text-danger"></span>
+
+									</div>
+									<div class="form-group required">
+										<label asp-for="OrderHeader.City" class="control-label">City</label>
+										<input asp-for="OrderHeader.City" class="form-control">
+										<span asp-validation-for="OrderHeader.City" class="text-danger"></span>
+
+									</div>
+									<div class="form-group required">
+										<label asp-for="OrderHeader.PostalCode" class="control-label">Postal Code</label>
+										<input asp-for="OrderHeader.PostalCode" class="form-control">
+										<span asp-validation-for="OrderHeader.PostalCode" class="text-danger"></span>
+
+									</div>
+								</fieldset>
+						</div>
+					</div>				
+				</div>
+
+					<div class="col-right col-sm-9">
+						<div class="row">
+							<div class="col-sm-12">
+								<div class="panel panel-default no-padding">
+									<div class="col-sm-6 checkout-shipping-methods">
+										<div class="panel-heading">
+											<h4 class="panel-title"><i class="fa fa-truck"></i> Delivery Method</h4>
+										</div>
+										<div class="panel-body">
+											<p>Please select the preferred shipping method to use on this order.</p>
+											
+											<div class="checkbox">
+												<label>
+													<input type="checkbox" name="shipping_method" value="Flat Shipping Rate" checked> Flat Shipping Rate - Rs 100
+													<p>Only applicable for local delivery.</p>
+												</label>
+											</div>
+										</div>
+									</div>
+									<div class="col-sm-6  checkout-payment-methods">
+										<div class="panel-heading">
+											<h4 class="panel-title"><i class="fa fa-credit-card"></i> Payment Method</h4>
+										</div>
+										<div class="panel-body">
+											<p>Please select the preferred payment method to use on this order.</p>
+											<div class="radio">
+												<label>
+													<input type="radio" name="payment_method" value="@ViewBag.CashOnDelivery"> @ViewBag.CashOnDelivery
+												</label>
+											</div>
+											<div class="radio">
+												<label>
+													<input type="radio" name="payment_method" value="@ViewBag.Esewa"> @ViewBag.Esewa
+												</label>
+											</div>
+
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+			
+				<div class="col-right col-sm-9">
+					<div class="row">
+					
+						<div class="col-sm-12">
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									<h4 class="panel-title"><i class="fa fa-shopping-cart"></i> Shopping cart</h4>
+								</div>
+								<div class="panel-body">
+									<div class="table-responsive">
+										<table class="table table-bordered">
+											<thead>
+												<tr>
+														<td class="text-center">Image</td>
+														<td class="text-left">Product Name</td>
+														<td class="text-left">Quantity</td>
+														<td class="text-right">Unit Price</td>
+														<td class="text-right">Reward Points</td>
+												</tr>
+											</thead>
+											<tbody>
+												@foreach (var details in Model.ListCart)
+												{
+														<tr>
+															<td class="text-center"><a href="product.html"><img width="60px" src="@details.Product.ImageUrl" alt="Xitefun Causal Wear Fancy Shoes" title="Xitefun Causal Wear Fancy Shoes" class="img-thumbnail"></a></td>
+															<td class="text-left"><a href="#">@details.Product.ProductName</a></td>
+															<td class="text-left"><a href="#">@details.Count</a></td>
+															<td class="text-right">Rs : @details.Price</td>
+															<td class="text-right">@details.Product.RewardPoints</td>
+														</tr>
+														
+												}
+												
+											</tbody>
+											<tfoot>
+												<tr>
+													<td class="text-right" colspan="4"><strong>Sub-Total:</strong></td>
+													<td class="text-right">Rs : @Model.SubTotal</td>
+												</tr>
+												<tr>
+													<td class="text-right" colspan="4"><strong>Flat Shipping Rate:</strong></td>
+													<td class="text-right">Rs : 100 </td>
+												</tr>												
+												<tr>
+													<td class="text-right" colspan="4"><strong>VAT (20%):</strong></td>
+													<td class="text-right">Rs : @Model.VatTotal</td>
+												</tr>
+												<tr>
+													<td class="text-right" colspan="4"><strong>Total:</strong></td>
+													<td class="text-right">Rs : @Model.OrderHeader.OrderTotal</td>
+												</tr>
+											</tfoot>
+										</table>
+									</div>
+								</div>
+							</div>
+						</div>
+					
+
+						<div class="col-sm-12">
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									<h4 class="panel-title"><i class="fa fa-pencil"></i> Place Order</h4>
+								</div>
+								<div class="panel-body">
+										<label class="control-label" for="confirm_agree">										
+											Estimated Arrival Date <a class="agree" href="#"><b>@(DateTime.Now.AddDays(4).ToShortDateString() + " - " + DateTime.Now.AddDays(8).ToShortDateString())</b></a>
+										</label>
+									<br>
+									<label class="control-label" for="confirm_agree">
+										<input type="checkbox" checked="checked" value="1" required="" class="validate required" id="confirm_agree" name="confirm agree">
+										<span>I have read and agree to the <a class="agree" href="#"><b>Terms &amp; Conditions</b></a></span>
+									</label>
+									<div class="buttons">
+										<div class="pull-right">
+											<input type="submit" class="btn btn-primary" id="button-confirm" value="Confirm Order">
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--Middle Part End -->
+	  </form>
+	</div>
+</div>

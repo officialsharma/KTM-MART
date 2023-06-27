@@ -1,0 +1,64 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    
+}
+@model IEnumerable<Category>
+
+<div class="main-container container">
+
+
+   
+    <!-- //Header Container  -->
+    <!-- Main Container  -->
+    <div class="main-container container">
+        <ul class="breadcrumb">
+            <li><a href="#"><i class="fa fa-home"></i></a></li>
+            <li><a href="#">Category</a></li>
+        </ul>
+       
+        <div class="row">
+            <!--Middle Part Start-->
+            <div id="content" class="col-sm-6">
+                <h2 class="title">Category</h2>
+                <div class="table-responsive form-group">
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <td class="text-center">Category Name</td>
+                                <td class="text-left">Action</td>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var obj in Model)
+                            {
+                                <tr>
+                                    <td><h4>@obj.Name</h4></td>
+                                    <td>
+                                        <div>
+                                            <a asp-controller="Category" asp-action="Edit" asp-route-id="@obj.Id" class="btn btn-icon btn-info btn-icon-style-1"><span class="btn-icon-wrap"><i class="fa fa-edit"></i></span></a>
+                                            <a asp-controller="Category" asp-action="Delete" asp-route-id="@obj.Id" class="btn btn-icon btn-danger btn-icon-style-1"><span class="btn-icon-wrap"><i class="fa fa-remove"></i></span></a>
+                                        </div>
+                                    </td>
+
+                                </tr>
+                            }
+
+                        </tbody>
+                    </table>
+                </div>
+
+
+
+
+
+            </div>
+
+
+        </div>
+        <!-- //Main Container -->
+    </div>
+</div>
+
